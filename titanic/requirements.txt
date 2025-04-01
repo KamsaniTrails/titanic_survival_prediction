@@ -1,0 +1,5 @@
+streamlit
+pickles
+pandas
+seaborn
+scikit-learn
